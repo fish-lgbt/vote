@@ -1,3 +1,4 @@
+'use server';
 import { axiom } from '@/axiom';
 import { thingsToVoteOn } from '@/things-to-vote-on';
 import type { NextRequest } from 'next/server';
