@@ -25,6 +25,7 @@ export default function RootLayout({
     <html lang="en">
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="icon" href="/favicon.ico" />
+      <script defer src="https://cloud.umami.is/script.js" data-website-id="9e3daea5-9603-4c8d-857c-915aba449e8d"></script>
       <body className={inter.className}>
         <Providers>{children}</Providers>
       </body>
